@@ -10,7 +10,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=500&lines=Java+Full+Stack+Developer;AI+Enthusiast;Problem+Solver" />
 </p>
 ## 🛠️ Skills
-
 <p>
 <img src="https://skillicons.dev/icons?i=java,c,html,css,js, Node.js,mysql,mongodb,git,github" />
 </p>
