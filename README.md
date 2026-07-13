@@ -10,12 +10,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=500&lines=Java+Full+Stack+Developer;AI+Enthusiast;Problem+Solver" />
 </p>
 ## 🛠️ Skills
-💻 Programming Languages(C, Java, Python, JavaScript)
-🌐 Machine Learning (PyTroch, Scikit Learn)
-⚙️ Backend Basics (django)
-🗄️ Database(MySQl, SQLite, PostgreSQL, MongoDB )
-🧩 Data Structures & Algorithms.
-🎨 Responsive UI Design.
+-💻 Programming Languages(C, Java,JavaScript)
+-⚙️ Backend Basics (Node.js)
+-🗄️ Database(MySQl, SQLite, PostgreSQL, MongoDB )
+-🧩 Data Structures & Algorithms.
+-🎨 Responsive UI Design.
 <p>
 <img src="https://skillicons.dev/icons?i=java,c,html,css,js, Node.js,mysql,mongodb,git,github" />
 </p>
@@ -25,8 +24,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=altaf12e&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=altaf12e&layout=compact&theme=tokyonight)
-## 🚀 Featured Projects
-
 ## 🚀 Featured Projects
 
 ### 📝 Online Quiz Website
